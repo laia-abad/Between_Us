@@ -1,0 +1,121 @@
+{
+  "rooms": [
+    {
+      "name": "Celeste",
+      "isStartRoom": false,
+      "isCompClass": false,
+      "isLog": true,
+      "canLog": false,
+      "ventRoom": "",
+      "color": 1,
+      "position": [
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Amarillo",
+      "isStartRoom": false,
+      "isCompClass": false,
+      "isLog": false,
+      "canLog": true,
+      "ventRoom": "",
+      "color": 5,
+      "position": [
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Pasillo 1",
+      "isStartRoom": false,
+      "isCompClass": false,
+      "isLog": false,
+      "canLog": false,
+      "ventRoom": "",
+      "color": 7,
+      "position": [
+        1,
+        1
+      ]
+    },
+    {
+      "name": "Pasillo 2",
+      "isStartRoom": true,
+      "isCompClass": false,
+      "isLog": false,
+      "canLog": true,
+      "ventRoom": "",
+      "color": 7,
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Rojo",
+      "isStartRoom": false,
+      "isCompClass": false,
+      "isLog": false,
+      "canLog": true,
+      "ventRoom": "",
+      "color": 0,
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "name": "Pasillo 3",
+      "isStartRoom": false,
+      "isCompClass": false,
+      "isLog": false,
+      "canLog": false,
+      "ventRoom": "",
+      "color": 7,
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Naranja",
+      "isStartRoom": false,
+      "isCompClass": false,
+      "isLog": false,
+      "canLog": true,
+      "ventRoom": "",
+      "color": 4,
+      "position": [
+        3,
+        1
+      ]
+    },
+    {
+      "name": "Pasillo 4",
+      "isStartRoom": false,
+      "isCompClass": false,
+      "isLog": false,
+      "canLog": false,
+      "ventRoom": "",
+      "color": 7,
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "name": "Verde",
+      "isStartRoom": false,
+      "isCompClass": true,
+      "isLog": false,
+      "canLog": false,
+      "ventRoom": "",
+      "color": 2,
+      "position": [
+        3,
+        3
+      ]
+    }
+  ]
+}
